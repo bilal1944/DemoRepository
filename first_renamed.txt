@@ -3,3 +3,4 @@ I want this to go into commit 2 master
 This is changed now
 Again changed
 This is from master 
+This is added at bugfix branch
